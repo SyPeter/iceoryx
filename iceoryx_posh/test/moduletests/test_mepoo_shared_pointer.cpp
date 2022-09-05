@@ -19,7 +19,6 @@
 #include "iceoryx_hoofs/internal/relocatable_pointer/base_relative_pointer.hpp"
 #include "iceoryx_posh/internal/mepoo/memory_manager.hpp"
 #include "iceoryx_posh/internal/mepoo/shared_pointer.hpp"
-#include "iceoryx_posh/mepoo/chunk_header.hpp"
 #include "test.hpp"
 
 namespace

@@ -20,7 +20,6 @@
 #include "mocks/roudi_memory_block_mock.hpp"
 #include "mocks/roudi_memory_provider_mock.hpp"
 
-#include "test.hpp"
 
 namespace
 {

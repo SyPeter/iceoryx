@@ -16,7 +16,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_posh/gateway/gateway_base.hpp"
-#include "iceoryx_posh/internal/capro/capro_message.hpp"
 #include "iceoryx_posh/runtime/posh_runtime.hpp"
 
 namespace iox

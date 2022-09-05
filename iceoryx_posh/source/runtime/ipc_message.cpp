@@ -17,7 +17,6 @@
 
 #include "iceoryx_posh/internal/runtime/ipc_message.hpp"
 
-#include <algorithm>
 
 namespace iox
 {

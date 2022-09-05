@@ -25,14 +25,12 @@
 #include "iceoryx_posh/popo/untyped_client.hpp"
 #include "iceoryx_posh/popo/untyped_server.hpp"
 #include "iceoryx_posh/popo/user_trigger.hpp"
-#include "iceoryx_posh/popo/wait_set.hpp"
 #include "iceoryx_posh/runtime/service_discovery.hpp"
 
 extern "C" {
 #include "iceoryx_binding_c/types.h"
 }
 
-#include <iostream>
 
 #define IOX_BINDING_C_CHECK_STORAGE_SIZE_AND_ALIGNMENT(CPP_TYPE, C_STORAGE)                                            \
     EXPECT_THAT(sizeof(C_STORAGE), Eq(sizeof(CPP_TYPE)));                                                              \

@@ -19,7 +19,6 @@
 
 #include "iceoryx_posh/popo/trigger.hpp"
 
-#include <type_traits>
 
 namespace iox
 {

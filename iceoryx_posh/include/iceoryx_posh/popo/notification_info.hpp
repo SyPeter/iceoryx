@@ -21,8 +21,6 @@
 #include "iceoryx_posh/internal/log/posh_logging.hpp"
 #include "iceoryx_posh/popo/notification_callback.hpp"
 
-#include <cstdint>
-#include <limits>
 
 namespace iox
 {

@@ -16,7 +16,6 @@
 
 #include "iceoryx_binding_c/internal/c2cpp_enum_translation.hpp"
 #include "iceoryx_binding_c/error_handling/error_handling.hpp"
-#include "iceoryx_binding_c/internal/c2cpp_binding.h"
 
 namespace c2cpp
 {

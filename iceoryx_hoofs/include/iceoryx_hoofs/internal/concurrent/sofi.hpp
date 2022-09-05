@@ -18,7 +18,6 @@
 #define IOX_HOOFS_CONCURRENT_SOFI_HPP
 
 #include "iceoryx_hoofs/cxx/type_traits.hpp"
-#include "iceoryx_hoofs/platform/platform_correction.hpp"
 
 #include <atomic>
 #include <cstdint>

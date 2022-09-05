@@ -15,7 +15,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_binding_c/internal/cpp2c_subscriber.hpp"
-#include "iceoryx_posh/popo/notification_info.hpp"
 #include "iceoryx_posh/popo/untyped_client.hpp"
 #include "iceoryx_posh/popo/untyped_server.hpp"
 #include "iceoryx_posh/popo/user_trigger.hpp"
@@ -29,7 +28,6 @@ extern "C" {
 #include "iceoryx_binding_c/notification_info.h"
 }
 
-#include <type_traits>
 
 uint64_t iox_notification_info_get_notification_id(iox_notification_info_t const self)
 {

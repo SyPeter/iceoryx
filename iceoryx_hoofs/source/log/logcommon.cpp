@@ -17,9 +17,6 @@
 
 #include "iceoryx_hoofs/log/logcommon.hpp"
 
-#include "iceoryx_hoofs/log/logger.hpp"
-#include "iceoryx_hoofs/log/logmanager.hpp"
-#include "iceoryx_hoofs/log/logstream.hpp"
 
 namespace iox
 {

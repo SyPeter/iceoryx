@@ -19,7 +19,6 @@
 #include "iceoryx_posh/testing/mocks/chunk_mock.hpp"
 #include "mocks/subscriber_mock.hpp"
 
-#include "test.hpp"
 
 namespace
 {

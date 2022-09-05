@@ -18,8 +18,6 @@
 #include "iceoryx_dust/cxx/file_reader.hpp"
 #include "iceoryx_hoofs/cxx/helplets.hpp"
 
-#include <iostream>
-#include <string>
 
 namespace iox
 {

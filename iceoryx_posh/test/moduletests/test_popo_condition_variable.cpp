@@ -20,13 +20,10 @@
 #include "iceoryx_hoofs/testing/watch_dog.hpp"
 #include "iceoryx_posh/internal/popo/building_blocks/condition_listener.hpp"
 #include "iceoryx_posh/internal/popo/building_blocks/condition_notifier.hpp"
-#include "iceoryx_posh/internal/popo/building_blocks/condition_variable_data.hpp"
 #include "test.hpp"
 
-#include <atomic>
 #include <memory>
 #include <thread>
-#include <type_traits>
 
 namespace
 {

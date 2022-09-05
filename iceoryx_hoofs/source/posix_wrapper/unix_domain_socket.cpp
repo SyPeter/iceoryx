@@ -16,15 +16,9 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_hoofs/internal/posix_wrapper/unix_domain_socket.hpp"
-#include "iceoryx_hoofs/cxx/helplets.hpp"
 #include "iceoryx_hoofs/cxx/scope_guard.hpp"
-#include "iceoryx_hoofs/platform/socket.hpp"
-#include "iceoryx_hoofs/platform/unistd.hpp"
 #include "iceoryx_hoofs/posix_wrapper/posix_call.hpp"
 
-#include <chrono>
-#include <cstdlib>
-#include <string>
 
 
 namespace iox

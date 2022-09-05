@@ -24,10 +24,8 @@
 
 //! [include]
 #include "iceoryx_posh/popo/publisher.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 //! [include]
 
-#include <iostream>
 
 
 int main()

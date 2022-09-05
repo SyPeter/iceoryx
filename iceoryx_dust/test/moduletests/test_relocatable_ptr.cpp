@@ -19,7 +19,6 @@
 #include "test.hpp"
 
 #include <cstring>
-#include <type_traits>
 
 namespace
 {

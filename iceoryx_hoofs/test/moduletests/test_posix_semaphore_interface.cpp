@@ -16,22 +16,16 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_hoofs/internal/posix_wrapper/semaphore_interface.hpp"
-#include "iceoryx_hoofs/internal/units/duration.hpp"
 #include "iceoryx_hoofs/platform/platform_settings.hpp"
 #include "iceoryx_hoofs/platform/time.hpp"
 #include "iceoryx_hoofs/posix_wrapper/named_semaphore.hpp"
 #include "iceoryx_hoofs/posix_wrapper/unnamed_semaphore.hpp"
 #include "iceoryx_hoofs/testing/test.hpp"
-#include "iceoryx_hoofs/testing/timing_test.hpp"
 #include "iceoryx_hoofs/testing/watch_dog.hpp"
 
-#include "test.hpp"
 #include "test_posix_semaphore_common.hpp"
 
-#include <atomic>
-#include <chrono>
 #include <thread>
-#include <type_traits>
 
 namespace
 {

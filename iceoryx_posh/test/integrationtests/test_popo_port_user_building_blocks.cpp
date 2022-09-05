@@ -27,7 +27,6 @@
 #include "iceoryx_posh/mepoo/mepoo_config.hpp"
 #include "test.hpp"
 
-#include <chrono>
 #include <sstream>
 #include <thread>
 

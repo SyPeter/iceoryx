@@ -19,6 +19,7 @@
 
 #include "iceoryx_hoofs/cxx/helplets.hpp"
 #include "iceoryx_posh/runtime/posh_runtime.hpp"
+#include "iceoryx_posh/internal/runtime/node_data.hpp"
 #include <gmock/gmock.h>
 
 using namespace ::testing;

@@ -21,11 +21,8 @@
 //! [include differs from typed C++ API]
 #include "iceoryx_posh/popo/untyped_publisher.hpp"
 //! [include differs from typed C++ API]
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 //! [iceoryx includes]
 
-#include <atomic>
-#include <iostream>
 
 int main()
 {

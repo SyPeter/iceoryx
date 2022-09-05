@@ -20,10 +20,8 @@
 
 #include "iceoryx_dust/posix_wrapper/signal_watcher.hpp"
 #include "iceoryx_posh/popo/untyped_subscriber.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 //! [includes]
 
-#include <iostream>
 
 int main()
 {

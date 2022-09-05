@@ -17,8 +17,6 @@
 #include "iceoryx_dust/posix_wrapper/signal_watcher.hpp"
 #include "iceoryx_hoofs/testing/barrier.hpp"
 #include "iceoryx_hoofs/testing/watch_dog.hpp"
-#include "test.hpp"
-#include <atomic>
 
 namespace
 {

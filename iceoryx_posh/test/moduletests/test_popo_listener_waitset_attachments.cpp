@@ -24,7 +24,6 @@
 #include "iceoryx_posh/runtime/service_discovery.hpp"
 #include "iceoryx_posh/testing/mocks/posh_runtime_mock.hpp"
 
-#include "test.hpp"
 namespace
 {
 using namespace ::testing;

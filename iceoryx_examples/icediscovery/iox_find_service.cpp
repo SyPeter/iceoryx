@@ -20,7 +20,6 @@
 #include "iceoryx_posh/runtime/service_discovery.hpp"
 //! [include ServiceDiscovery]
 
-#include <iostream>
 
 constexpr char APP_NAME[] = "iox-find-service";
 

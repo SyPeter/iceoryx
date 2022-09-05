@@ -17,13 +17,9 @@
 
 #include "iceoryx_hoofs/log/logmanager.hpp"
 
-#include "iceoryx_hoofs/cxx/attributes.hpp"
-#include "iceoryx_hoofs/cxx/helplets.hpp"
-#include "iceoryx_hoofs/log/logger.hpp"
 #include "logging_internal.hpp"
 
 #include <mutex>
-#include <utility>
 
 namespace iox
 {

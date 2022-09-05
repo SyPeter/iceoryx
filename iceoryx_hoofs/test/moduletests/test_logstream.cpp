@@ -17,12 +17,9 @@
 
 #include "iceoryx_hoofs/cxx/convert.hpp"
 #include "iceoryx_hoofs/log/logging.hpp"
-#include "iceoryx_hoofs/log/logstream.hpp"
 #include "iceoryx_hoofs/testing/mocks/logger_mock.hpp"
 #include "iceoryx_hoofs/testing/test.hpp"
 
-#include <cstdint>
-#include <limits>
 
 namespace
 {

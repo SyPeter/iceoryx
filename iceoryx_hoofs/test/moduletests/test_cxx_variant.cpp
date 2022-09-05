@@ -18,7 +18,6 @@
 #include "iceoryx_hoofs/cxx/variant.hpp"
 #include "test.hpp"
 
-#include <string>
 namespace
 {
 using namespace testing;

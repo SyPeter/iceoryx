@@ -23,16 +23,12 @@
 #include "iceoryx_posh/popo/untyped_publisher.hpp"
 #include "iceoryx_posh/popo/untyped_server.hpp"
 #include "iceoryx_posh/popo/wait_set.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 #include "iceoryx_posh/runtime/service_discovery.hpp"
 #include "iceoryx_posh/testing/mocks/posh_runtime_mock.hpp"
 #include "iceoryx_posh/testing/roudi_gtest.hpp"
-#include "test.hpp"
 
 #include <random>
 #include <set>
-#include <type_traits>
-#include <vector>
 
 
 namespace

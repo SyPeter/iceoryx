@@ -21,7 +21,6 @@
 #include "iceoryx_posh/testing/mocks/chunk_mock.hpp"
 #include "mocks/publisher_mock.hpp"
 
-#include "test.hpp"
 
 namespace
 {

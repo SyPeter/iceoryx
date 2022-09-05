@@ -16,7 +16,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_posh/roudi/memory/memory_block.hpp"
-#include "iceoryx_hoofs/cxx/attributes.hpp"
 
 namespace iox
 {

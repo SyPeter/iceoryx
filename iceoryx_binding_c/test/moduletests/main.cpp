@@ -18,7 +18,6 @@
 #include "test.hpp"
 
 /// just to check that no non-existing headers are included
-#include "iceoryx_binding_c/api.h"
 
 #include "test_types_storage_size.hpp"
 

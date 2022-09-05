@@ -21,7 +21,9 @@
 #include "iceoryx_hoofs/internal/concurrent/periodic_task.hpp"
 #include "iceoryx_hoofs/internal/posix_wrapper/mutex.hpp"
 #include "iceoryx_posh/internal/runtime/shared_memory_user.hpp"
+#include "node_data.hpp"
 #include "iceoryx_posh/runtime/posh_runtime.hpp"
+#include "/home/peter/workspace/iceoryx_fork/iceoryx_posh/testing/include/iceoryx_posh/testing/roudi_environment/runtime_test_interface.hpp"
 
 namespace iox
 {

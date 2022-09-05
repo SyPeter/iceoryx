@@ -24,7 +24,6 @@
 #include "test.hpp"
 
 #include <cpptoml.h>
-#include <limits> // workaround for missing include in cpptoml.h
 
 using namespace ::testing;
 using ::testing::_;

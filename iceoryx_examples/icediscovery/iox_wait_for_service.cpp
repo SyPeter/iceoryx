@@ -19,9 +19,7 @@
 //! [include custom discovery]
 
 #include "iceoryx_dust/posix_wrapper/signal_watcher.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 
-#include <iostream>
 
 using namespace discovery;
 

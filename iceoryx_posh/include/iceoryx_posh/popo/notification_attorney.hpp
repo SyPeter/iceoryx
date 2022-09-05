@@ -19,7 +19,6 @@
 
 #include "iceoryx_posh/iceoryx_posh_types.hpp"
 
-#include <cstdint>
 
 namespace iox
 {

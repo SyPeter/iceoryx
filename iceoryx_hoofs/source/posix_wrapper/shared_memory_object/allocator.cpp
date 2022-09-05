@@ -17,9 +17,7 @@
 
 #include "iceoryx_hoofs/internal/posix_wrapper/shared_memory_object/allocator.hpp"
 #include "iceoryx_hoofs/cxx/helplets.hpp"
-#include "iceoryx_hoofs/platform/platform_correction.hpp"
 
-#include <iostream>
 
 namespace iox
 {

@@ -18,14 +18,10 @@
 #include "request_and_response_types.hpp"
 
 #include "iceoryx_dust/posix_wrapper/signal_watcher.hpp"
-#include "iceoryx_hoofs/posix_wrapper/signal_handler.hpp"
 #include "iceoryx_posh/popo/client.hpp"
 #include "iceoryx_posh/popo/wait_set.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 //! [iceoryx includes]
 
-#include <atomic>
-#include <iostream>
 
 constexpr char APP_NAME[] = "iox-cpp-request-response-client-waitset";
 std::atomic_bool keepRunning = {true};

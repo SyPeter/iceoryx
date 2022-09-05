@@ -19,7 +19,6 @@
 
 #include "mocks/roudi_memory_provider_mock.hpp"
 
-#include "test.hpp"
 
 namespace
 {

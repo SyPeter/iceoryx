@@ -21,15 +21,10 @@
 #include "iceoryx_posh/error_handling/error_handling.hpp"
 #include "iceoryx_posh/mepoo/mepoo_config.hpp"
 #include "iceoryx_posh/popo/subscriber.hpp"
-#include "iceoryx_posh/popo/wait_set.hpp"
 #include "iceoryx_posh/roudi/introspection_types.hpp"
 #include "iceoryx_posh/roudi/roudi_app.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 #include "iceoryx_posh/testing/roudi_environment/roudi_environment.hpp"
 
-#include <algorithm>
-#include <chrono>
-#include <iostream>
 
 #include "test.hpp"
 

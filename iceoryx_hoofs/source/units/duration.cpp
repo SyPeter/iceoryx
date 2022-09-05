@@ -17,11 +17,8 @@
 
 #include "iceoryx_hoofs/internal/units/duration.hpp"
 #include "iceoryx_hoofs/internal/log/hoofs_logging.hpp"
-#include "iceoryx_hoofs/platform/platform_correction.hpp"
 
-#include "iceoryx_hoofs/posix_wrapper/posix_call.hpp"
 
-#include <utility>
 
 namespace iox
 {

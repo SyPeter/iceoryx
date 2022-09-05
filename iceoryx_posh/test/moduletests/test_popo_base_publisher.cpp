@@ -18,7 +18,6 @@
 #include "iceoryx_posh/internal/popo/base_publisher.hpp"
 #include "mocks/publisher_mock.hpp"
 
-#include "test.hpp"
 
 namespace
 {

@@ -18,9 +18,7 @@
 #include "iceoryx_hoofs/internal/units/duration.hpp"
 
 #include <atomic>
-#include <chrono>
 #include <iomanip>
-#include <string>
 #include <thread>
 
 #if defined(__clang__)

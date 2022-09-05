@@ -20,10 +20,8 @@
 #include "iceoryx_dust/posix_wrapper/signal_watcher.hpp"
 #include "iceoryx_posh/popo/listener.hpp"
 #include "iceoryx_posh/popo/server.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 //! [iceoryx includes]
 
-#include <iostream>
 
 constexpr char APP_NAME[] = "iox-cpp-request-response-server-listener";
 

@@ -17,7 +17,6 @@
 #include "iceoryx_hoofs/error_handling/error_handler.hpp"
 #include "iceoryx_hoofs/testing/mocks/error_handler_mock.hpp"
 
-#include "test.hpp"
 #include <gtest/gtest-spi.h>
 
 namespace

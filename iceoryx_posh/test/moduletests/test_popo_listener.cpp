@@ -24,11 +24,9 @@
 #include "iceoryx_posh/iceoryx_posh_types.hpp"
 #include "iceoryx_posh/internal/popo/building_blocks/condition_variable_data.hpp"
 #include "iceoryx_posh/popo/listener.hpp"
-#include "iceoryx_posh/popo/user_trigger.hpp"
 #include "test.hpp"
 
 #include <array>
-#include <chrono>
 #include <memory>
 #include <thread>
 

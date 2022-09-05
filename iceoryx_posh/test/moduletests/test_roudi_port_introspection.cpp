@@ -17,14 +17,11 @@
 
 #include "iceoryx_hoofs/cxx/scope_guard.hpp"
 #include "iceoryx_posh/internal/roudi/introspection/port_introspection.hpp"
-#include "iceoryx_posh/mepoo/chunk_header.hpp"
 #include "iceoryx_posh/testing/mocks/chunk_mock.hpp"
 #include "mocks/publisher_mock.hpp"
 #include "mocks/subscriber_mock.hpp"
 
-#include "test.hpp"
 
-#include <cstdint>
 
 namespace
 {

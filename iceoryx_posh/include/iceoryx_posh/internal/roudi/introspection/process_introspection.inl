@@ -19,7 +19,6 @@
 
 #include "process_introspection.hpp"
 
-#include "iceoryx_hoofs/posix_wrapper/thread.hpp"
 #include "iceoryx_posh/internal/log/posh_logging.hpp"
 
 #include <chrono>

@@ -22,7 +22,6 @@ extern "C" {
 
 #include "test.hpp"
 
-#include <type_traits>
 
 namespace
 {

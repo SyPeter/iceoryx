@@ -17,7 +17,6 @@
 #include "iceoryx_binding_c/internal/c2cpp_enum_translation.hpp"
 #include "iceoryx_binding_c/internal/cpp2c_enum_translation.hpp"
 #include "iceoryx_binding_c/internal/cpp2c_service_description_translation.hpp"
-#include "iceoryx_hoofs/cxx/requires.hpp"
 #include "iceoryx_posh/popo/untyped_client.hpp"
 
 using namespace iox;
@@ -30,7 +29,6 @@ extern "C" {
 #include "iceoryx_binding_c/client.h"
 }
 
-#include <cstring>
 
 constexpr uint64_t CLIENT_OPTIONS_INIT_CHECK_CONSTANT = 47113130815;
 

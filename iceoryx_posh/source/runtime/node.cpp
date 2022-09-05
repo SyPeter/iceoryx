@@ -17,7 +17,6 @@
 
 #include "iceoryx_posh/runtime/node.hpp"
 
-#include "iceoryx_posh/iceoryx_posh_types.hpp"
 #include "iceoryx_posh/internal/runtime/node_data.hpp"
 #include "iceoryx_posh/internal/runtime/node_property.hpp"
 #include "iceoryx_posh/runtime/posh_runtime.hpp"

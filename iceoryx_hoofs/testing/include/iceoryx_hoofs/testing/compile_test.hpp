@@ -18,7 +18,6 @@
 
 #include "iceoryx_hoofs/platform/wait.hpp"
 
-#include <cstdio>
 #include <iostream>
 #include <string>
 #include <vector>

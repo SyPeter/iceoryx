@@ -20,10 +20,8 @@
 #include "iceoryx_posh/popo/server.hpp"
 #include "iceoryx_posh/popo/untyped_client.hpp"
 #include "iceoryx_posh/popo/untyped_server.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 #include "iceoryx_posh/testing/roudi_gtest.hpp"
 
-#include "test.hpp"
 
 namespace
 {

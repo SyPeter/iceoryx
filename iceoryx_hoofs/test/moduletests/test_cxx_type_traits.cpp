@@ -16,7 +16,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_hoofs/cxx/string.hpp"
-#include "iceoryx_hoofs/cxx/type_traits.hpp"
 #include "test.hpp"
 
 

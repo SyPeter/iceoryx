@@ -15,14 +15,11 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_hoofs/cxx/function.hpp"
-#include "iceoryx_hoofs/cxx/function_ref.hpp"
 #include "iceoryx_hoofs/internal/concurrent/periodic_task.hpp"
 #include "iceoryx_hoofs/testing/timing_test.hpp"
 
 #include "test.hpp"
 
-#include <cstdint>
-#include <functional>
 
 namespace
 {

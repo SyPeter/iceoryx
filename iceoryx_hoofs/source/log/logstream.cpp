@@ -18,10 +18,7 @@
 #include "iceoryx_hoofs/log/logstream.hpp"
 
 #include "iceoryx_hoofs/log/logger.hpp"
-#include "iceoryx_hoofs/log/logging.hpp"
 
-#include <chrono>
-#include <ctime>
 #include <iomanip>
 
 namespace iox

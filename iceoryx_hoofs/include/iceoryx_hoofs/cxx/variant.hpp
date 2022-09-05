@@ -25,7 +25,6 @@
 #include <limits>
 #include <type_traits>
 
-#include "iceoryx_hoofs/platform/platform_correction.hpp"
 
 namespace iox
 {

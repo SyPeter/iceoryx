@@ -26,13 +26,10 @@ using namespace ::testing;
 #include "iceoryx_hoofs/testing/watch_dog.hpp"
 
 #include <array>
-#include <atomic>
 #include <list>
 #include <numeric>
 #include <random>
 #include <thread>
-#include <utility>
-#include <vector>
 
 namespace
 {

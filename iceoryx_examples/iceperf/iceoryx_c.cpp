@@ -16,7 +16,6 @@
 
 #include "iceoryx_c.hpp"
 
-#include <chrono>
 #include <thread>
 
 IceoryxC::IceoryxC(const iox::capro::IdString_t& publisherName, const iox::capro::IdString_t& subscriberName) noexcept

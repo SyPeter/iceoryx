@@ -18,16 +18,11 @@
 #include "iceperf_leader.hpp"
 #include "iceoryx.hpp"
 #include "iceoryx_c.hpp"
-#include "iceoryx_hoofs/cxx/convert.hpp"
 #include "iceoryx_posh/popo/publisher.hpp"
-#include "iceoryx_posh/popo/subscriber.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 #include "mq.hpp"
-#include "topic_data.hpp"
 #include "uds.hpp"
 
 #include <iomanip>
-#include <iostream>
 #include <vector>
 
 //! [use constants instead of magic values]

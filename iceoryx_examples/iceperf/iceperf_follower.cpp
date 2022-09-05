@@ -18,12 +18,9 @@
 #include "iceperf_follower.hpp"
 #include "iceoryx.hpp"
 #include "iceoryx_c.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 #include "mq.hpp"
-#include "topic_data.hpp"
 #include "uds.hpp"
 
-#include <iostream>
 
 //! [use constants instead of magic values]
 constexpr const char APP_NAME[]{"iceperf-bench-follower"};

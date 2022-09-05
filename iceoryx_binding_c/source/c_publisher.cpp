@@ -20,8 +20,6 @@
 #include "iceoryx_binding_c/internal/cpp2c_enum_translation.hpp"
 #include "iceoryx_binding_c/internal/cpp2c_publisher.hpp"
 #include "iceoryx_binding_c/internal/cpp2c_service_description_translation.hpp"
-#include "iceoryx_posh/internal/popo/ports/publisher_port_user.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 
 
 using namespace iox;

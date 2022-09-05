@@ -21,7 +21,6 @@
 
 #include "test.hpp"
 
-#include <chrono>
 
 namespace
 {

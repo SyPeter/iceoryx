@@ -22,7 +22,6 @@
 #include "mocks/server_mock.hpp"
 #include "mocks/trigger_handle_mock.hpp"
 
-#include "test.hpp"
 
 namespace
 {

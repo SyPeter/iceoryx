@@ -23,7 +23,6 @@
 #include <cstdint>
 #include <iostream>
 
-#include "iceoryx_hoofs/platform/platform_correction.hpp"
 
 namespace iox
 {

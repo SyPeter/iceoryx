@@ -18,7 +18,6 @@
 
 #include "iceoryx_posh/popo/publisher.hpp"
 #include "iceoryx_posh/popo/subscriber.hpp"
-#include "iceoryx_posh/runtime/posh_runtime.hpp"
 
 constexpr char APP_NAME[] = "iox-cpp-cheeky";
 

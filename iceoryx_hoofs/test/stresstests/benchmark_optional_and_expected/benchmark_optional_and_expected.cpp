@@ -16,11 +16,9 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include "iceoryx_hoofs/cxx/expected.hpp"
-#include "iceoryx_hoofs/cxx/optional.hpp"
 
 #include "benchmark.hpp"
 
-#include <limits>
 
 uint64_t globalCounter{0U};
 

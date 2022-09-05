@@ -17,9 +17,6 @@
 
 #include "iceoryx_hoofs/cxx/convert.hpp"
 #include "iceoryx_posh/internal/roudi/port_pool_data.hpp"
-#include "iceoryx_posh/internal/runtime/node_data.hpp"
-#include "iceoryx_posh/popo/client_options.hpp"
-#include "iceoryx_posh/popo/subscriber_options.hpp"
 #include "iceoryx_posh/roudi/port_pool.hpp"
 #include "test.hpp"
 

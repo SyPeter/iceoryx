@@ -19,10 +19,6 @@
 #include "test.hpp"
 
 
-#include <cstdio>
-#include <cstdlib>
-#include <fstream>
-#include <string>
 
 namespace
 {

@@ -22,13 +22,10 @@ using namespace ::testing;
 
 #include "iceoryx_hoofs/testing/barrier.hpp"
 
-#include <atomic>
 #include <list>
 #include <numeric>
 #include <random>
 #include <thread>
-#include <utility>
-#include <vector>
 
 
 namespace

@@ -17,11 +17,8 @@
 
 #include "iceoryx_hoofs/cxx/optional.hpp"
 #include "iceoryx_hoofs/log/logger.hpp"
-#include "iceoryx_hoofs/log/logging.hpp"
 #include "test.hpp"
 
-#include <ctime>
-#include <iostream>
 #include <regex>
 #include <sstream>
 

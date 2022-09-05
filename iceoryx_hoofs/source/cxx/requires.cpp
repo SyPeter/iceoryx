@@ -18,7 +18,6 @@
 #include "iceoryx_hoofs/cxx/requires.hpp"
 #include "iceoryx_hoofs/error_handling/error_handling.hpp"
 
-#include <iostream>
 
 namespace iox
 {

@@ -19,7 +19,6 @@
 #define IOX_HOOFS_CXX_FUNCTION_REF_INL
 
 #include "iceoryx_hoofs/cxx/function_ref.hpp"
-#include "iceoryx_hoofs/cxx/requires.hpp"
 
 #include <memory>
 

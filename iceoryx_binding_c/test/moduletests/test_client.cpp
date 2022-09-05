@@ -16,9 +16,6 @@
 
 #include "iceoryx_binding_c/internal/cpp2c_enum_translation.hpp"
 #include "iceoryx_hoofs/testing/watch_dog.hpp"
-#include "iceoryx_posh/capro/service_description.hpp"
-#include "iceoryx_posh/internal/mepoo/memory_manager.hpp"
-#include "iceoryx_posh/internal/popo/ports/client_port_roudi.hpp"
 #include "iceoryx_posh/mepoo/mepoo_config.hpp"
 #include "iceoryx_posh/popo/untyped_client.hpp"
 #include "iceoryx_posh/testing/mocks/posh_runtime_mock.hpp"
@@ -32,7 +29,6 @@ extern "C" {
 #include "iceoryx_binding_c/client.h"
 }
 
-#include "test.hpp"
 
 namespace
 {

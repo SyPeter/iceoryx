@@ -20,7 +20,6 @@
 #include "iceoryx_hoofs/log/logger.hpp"
 #include "iceoryx_hoofs/log/logstream.hpp"
 
-#include <chrono>
 #include <string>
 
 namespace iox

@@ -18,10 +18,8 @@
 #define IOX_HOOFS_STORABLE_FUNCTION_HPP
 
 #include "iceoryx_hoofs/cxx/type_traits.hpp"
-#include "iceoryx_hoofs/internal/cxx/static_storage.hpp"
 
 #include <iostream>
-#include <utility>
 
 
 namespace iox
